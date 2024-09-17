@@ -49,7 +49,7 @@ int main() {
   
   if (palindrome == true) { //if palindrome didn't fail!
     cout << "Palindrome!" << endl;
-    }
+  }
   
   return 0;
 }
